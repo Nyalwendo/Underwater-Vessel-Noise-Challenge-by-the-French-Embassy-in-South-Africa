@@ -18,7 +18,7 @@ Follow these steps to set up your local environment and run the pipeline:
 
 Step 1: Clone the Repository
 Bash
-git clone https://github.com/Nyalwendo/sa-coastal-vessel-noise.git
+git clone https://github.com/user name/sa-coastal-vessel-noise.git
 cd sa-coastal-vessel-noise
 Step 2: Create and Activate a Python Virtual Environment
 Bash
